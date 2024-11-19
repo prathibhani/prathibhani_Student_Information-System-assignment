@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import { students } from './data/StudentsDb';
+import { students } from './assests/data/StudentsDb';
 import StudentTable  from './components/StudentTable';
 
 function App() {
@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <h1>Students Information Portal</h1>
       <hr/>
-      <table>
+      <table width="100">
         <tbody>
           <tr>
             <td>
