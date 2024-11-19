@@ -14,6 +14,11 @@ export default function StudentTable(props){
 
                     </tr>
                 </thead>
+                <tbody>
+                    {
+                        props
+                    }
+                </tbody>
                </table>
              </div>
         </div>
