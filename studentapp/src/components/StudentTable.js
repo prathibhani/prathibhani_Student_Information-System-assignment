@@ -8,8 +8,9 @@ export default function StudentTable(props){
                     <tr>
                         <td>First Name</td>
                         <td>Last Name</td>
-                        <td>Country</td>
                         <td>Course</td>
+                        <td>Country</td>
+                        
 
                     </tr>
                 </thead>
